@@ -1,0 +1,1 @@
+filepath = r'C:\Users\Grira\OneDrive - Alstom\Documents\Breaq\Breaq_05-2025\Echelle reduit-Data\Python codes\Code for Reduced scale\Parcours_PM_PN_PS\ELPI'
